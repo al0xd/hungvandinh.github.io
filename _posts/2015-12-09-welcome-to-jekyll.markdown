@@ -1,6 +1,6 @@
 ---
 layout: post
-name:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll!"
 date:   2015-12-09 16:45:59 +0700
 author: hungvandinh
 ---
