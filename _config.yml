@@ -41,9 +41,9 @@ google_analytics: ""
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: http://hungvandinh.github.io
+url: http://blog.stackoverflow.com
 
-# If you're hosting your site at a Project repository on GitHub pages 
+# If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"

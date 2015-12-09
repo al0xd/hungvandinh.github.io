@@ -1,7 +1,7 @@
 ---
 layout: author
-name: Aarthi Devanathan
-id: aarthi
+name: Hung Van Dinh
+id: hungvandinh
 twitter: aarthid
 job: Community Manager (Former)
 avatar: https://i.stack.imgur.com/YKvWi.jpg
